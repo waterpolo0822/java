@@ -30,7 +30,7 @@ public class bmi {
 		else if ((35<=35)&&(c<40)){
 			System.out.println("\nYou are obese level3");
 		}
-		else if (40<=c){
+		else{
 			System.out.println("\nYou are obese level4");
 		}
 	}
